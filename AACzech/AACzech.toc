@@ -1,0 +1,6 @@
+## Interface: 90001
+## Title: Auctionator Czech Translation
+## Version: 1
+## Author: plusmouse, Naflie
+
+Translations.lua
